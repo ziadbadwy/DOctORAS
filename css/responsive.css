@@ -1,0 +1,91 @@
+@media (max-width:1024px) {
+    .swiper img{
+        height: 100%;
+    }
+    .main-bg{
+           
+       display: none;
+    }
+    .main-sub-word{
+        display: none;
+    }
+    .main-word{
+        display: none;
+    
+    }
+    .serve-card p {
+        margin: 10px;
+        padding: 10px;
+    }
+    
+    .serve-card h3 {
+        margin-top: 0px;
+    
+    }
+    .start{
+        
+        display: none !important;
+    }
+    .srv1{
+        order: 2;
+    }
+    .srv2{
+        order: 1;
+    }
+    .doc-img {
+        order: 1;
+    }
+
+    .head1 {
+        order: 2;
+
+    }
+   
+
+    .head2 {
+        order: 3;
+    }
+    .Reveiw{
+        width: 70%;
+        margin: auto;
+
+    }
+    .fb-slides{
+        width: 70%;
+    }
+    .roww{
+        display: block;
+    }
+    .mart{
+        margin-top: 20px;
+    }
+    .mar{
+        margin-top: -250px;
+    }
+    .ord1{
+        order: 2;
+    }
+    .ord2{
+        order: 1;
+    }
+    
+    
+    .dropdown-menu{
+        background-color: #1a1a1a;
+        width: 100%;
+    }
+    .dropdown-menu li{
+        width: 100%;
+        border: none;
+        margin-top: 0px;
+    }
+}
+
+@media(max-width:900px){
+    .fb-slides{
+        width: 100%;
+    }
+    .mar{
+        margin-top: 0px;
+    }
+}
